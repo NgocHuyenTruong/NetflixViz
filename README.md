@@ -7,6 +7,7 @@ This project focuses on the analysis of the ‘Netflix Movies and TV Shows’ da
 The dataset includes:
 - Over 8,000 movies and TV shows
 - Attributes such as cast, directors, ratings, release years, and duration
+- Dataset source: https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 
 ## **Tools and Technologies**
 - **Python**: For data preparation and analysis
@@ -31,6 +32,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 - Kaggle for the dataset
 - Tableau for the visualization tool
 
----
-
-You can copy and paste this formatted text into your README file!
