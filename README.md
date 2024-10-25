@@ -21,7 +21,7 @@ The dataset includes:
 ## **Getting Started**
 To run this project:
 1. Clone the repository:  
-   `git clone https://github.com/NgocHuyenTruong/NetflixViz`
+   https://github.com/NgocHuyenTruong/NetflixViz
 2. Open the Jupyter Notebook for data preparation.
 3. Open the Tableau workbook to explore the visualizations.
 
