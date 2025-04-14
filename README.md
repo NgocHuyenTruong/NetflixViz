@@ -18,6 +18,10 @@ The dataset includes:
 - Identify trends and patterns in the dataset
 - Provide actionable insights for the streaming industry
 
+## **Dashboards & Key Insights**
+You can view the dashboards and a summary of key insights from this project in the portfolio file below:
+📄 View Portfolio: Netflix Data Visualization [http://github.com/NgocHuyenTruong/NetflixViz/blob/main/Ngoc%20Huyen%20Truong%20-%20Tableau%20dashboard%20Portfolio.pdf]
+
 ## **Getting Started**
 To run this project:
 1. Clone the repository:  
