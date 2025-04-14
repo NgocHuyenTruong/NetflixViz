@@ -20,6 +20,7 @@ The dataset includes:
 
 ## **Dashboards & Key Insights**
 You can view the dashboards and a summary of key insights from this project in the portfolio file below:
+
 📄 View Portfolio: Netflix Data Visualization [http://github.com/NgocHuyenTruong/NetflixViz/blob/main/Ngoc%20Huyen%20Truong%20-%20Tableau%20dashboard%20Portfolio.pdf]
 
 ## **Getting Started**
